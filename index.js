@@ -22,5 +22,6 @@ function currentLine(line) {
         result += ","
       }
     }
+    return result
   }
 }
